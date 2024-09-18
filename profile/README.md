@@ -47,3 +47,9 @@
 #### K9 Token $KNINE
 [https://sourcehat.com/audits/K9Finance/](https://sourcehat.com/audits/K9Finance/)
 
+#### K9 Liquid Staking: knBONE and K9 Bridge
+[https://sourcehat.com/audits/K9LiquidStaking/](https://sourcehat.com/audits/K9LiquidStaking/)
+
+#### K9 Protocol: Farm, Real Yield Staking, and Vesting
+[https://sourcehat.com/audits/K9Farming/](https://sourcehat.com/audits/K9Farming/)
+
